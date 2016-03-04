@@ -1,4 +1,0 @@
-Witam Wszystkich
-
-Mam dla Was zadanie:
-- Zapoznaæ siê z konsol¹ GIT`a
